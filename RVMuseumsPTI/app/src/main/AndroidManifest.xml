@@ -21,5 +21,6 @@
         <activity android:name=".MuseumActivity" />
         <activity android:name=".MusemsPersonalWebView"></activity>
     </application>
+    <uses-permission android:name="android.permission.INTERNET" />
 
 </manifest>
